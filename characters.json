@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Jane",
+    "taxonomy": {
+      "genre": "Sci-Fi",
+      "subgenre": "Cyberpunk",
+      "archetype": "Undead",
+      "species": "Zombie"
+    },
+    "tags": ["dominant", "0001", "futa", "cyberpunk", "hybrid"],
+    "likes": 4200,
+    "comments": 290,
+    "saves": 950
+  },
+  {
+    "name": "Mira",
+    "taxonomy": {
+      "genre": "Fantasy",
+      "subgenre": "High Fantasy",
+      "archetype": "Monster",
+      "species": "Elf"
+    },
+    "tags": ["0000", "fantasy", "sweet dom", "elf", "healer"],
+    "likes": 2100,
+    "comments": 180,
+    "saves": 540
+  }
+]
