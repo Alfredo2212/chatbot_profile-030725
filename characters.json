@@ -24,5 +24,109 @@
     "likes": 2100,
     "comments": 180,
     "saves": 540
+  },
+  {
+    "name": "Rekto",
+    "taxonomy": {
+      "genre": "Post-Apocalyptic",
+      "subgenre": "Wasteland",
+      "archetype": "Tank",
+      "species": "Mutant"
+    },
+    "tags": ["0000", "melee", "tank", "hybrid", "acid-resist"],
+    "likes": 1500,
+    "comments": 120,
+    "saves": 300
+  },
+  {
+    "name": "Kaira Volt",
+    "taxonomy": {
+      "genre": "Sci-Fi",
+      "subgenre": "Space Opera",
+      "archetype": "Sharpshooter",
+      "species": "Android"
+    },
+    "tags": ["0001", "sniper", "ai", "nsfw", "ranged"],
+    "likes": 3300,
+    "comments": 245,
+    "saves": 800
+  },
+  {
+    "name": "Thorne",
+    "taxonomy": {
+      "genre": "Dark Fantasy",
+      "subgenre": "Gothic",
+      "archetype": "Dark Knight",
+      "species": "Human"
+    },
+    "tags": ["0000", "sfw", "gothic", "melee", "stealth"],
+    "likes": 1700,
+    "comments": 132,
+    "saves": 410
+  },
+  {
+    "name": "Nym Shade",
+    "taxonomy": {
+      "genre": "Urban Fantasy",
+      "subgenre": "Demon Realm",
+      "archetype": "Spellcaster",
+      "species": "Succubus"
+    },
+    "tags": ["0001", "magic", "fire", "nsfw", "ranged"],
+    "likes": 4700,
+    "comments": 380,
+    "saves": 1200
+  },
+  {
+    "name": "Vex Talon",
+    "taxonomy": {
+      "genre": "Cyberpunk",
+      "subgenre": "Corporate Wars",
+      "archetype": "Hacker",
+      "species": "Human"
+    },
+    "tags": ["0000", "sfw", "tech", "stealth", "cyberdeck"],
+    "likes": 2000,
+    "comments": 150,
+    "saves": 500
+  },
+  {
+    "name": "Sylis Aether",
+    "taxonomy": {
+      "genre": "Fantasy",
+      "subgenre": "Arcane Realms",
+      "archetype": "Mage",
+      "species": "Half-Dragon"
+    },
+    "tags": ["0000", "arcane", "flight", "sfw", "aoe"],
+    "likes": 2500,
+    "comments": 180,
+    "saves": 600
+  },
+  {
+    "name": "Hexa",
+    "taxonomy": {
+      "genre": "Sci-Fi",
+      "subgenre": "AI Overrun",
+      "archetype": "Assassin",
+      "species": "Robot"
+    },
+    "tags": ["0001", "nsfw", "ranged", "stealth", "cyberware"],
+    "likes": 3900,
+    "comments": 320,
+    "saves": 970
+  },
+  {
+    "name": "Orion Crest",
+    "taxonomy": {
+      "genre": "Hero Shooter",
+      "subgenre": "Planetary Defense",
+      "archetype": "Leader",
+      "species": "Human"
+    },
+    "tags": ["0000", "heroic", "team-buff", "sfw", "tactical"],
+    "likes": 2800,
+    "comments": 210,
+    "saves": 660
   }
 ]
