@@ -1,4 +1,12 @@
-
+'''
+Character Analytics
+--
+Provide core functionality for analyzing and rank character profiles
+from JSON dataset. 
+- tag based filtering
+- ranking characters by specific interaction metrics
+- custom weight for engagement score
+'''
 
 def filter_by_tags(characters, required_tags):
     """
